@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jarkin0513
 - 👀 I’m interested in computer science and engineering.
-- 🌱 I’m currently learning python. 
+- 🌱 I’m currently learning python and c++. 
 - 💞️ I’m looking to collaborate on anything.
-- 📫 How to reach me: jarkin1@hotmail.com
+- 📫 How to reach me: jarkin1@hotmail.com  / jarkin@uiowa.edu
 
 I am a sophomore at the University of Iowa getting my Bachelor of Science and Engineering, Computer Science and Engineering.  
 
