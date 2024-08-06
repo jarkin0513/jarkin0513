@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me: jarkin1@hotmail.com  
 
-I am a Junior at the University of Iowa getting my Bachelor of Science and Engineering, Computer Science and Engineering.  
+I am a Senior at the University of Iowa getting my Bachelor of Science and Engineering, Computer Science and Engineering.  
 
 <!---
 jarkin0513/jarkin0513 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
