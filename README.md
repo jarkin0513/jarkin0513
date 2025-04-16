@@ -1,6 +1,6 @@
 - Hi, I'm Jacob Arkin
 - I am a Senior at the University of Iowa getting my Bachelor of Science and Engineering, Computer Science and Engineering.
-- I currently have a software engineering internship at Snap-On Diagnostics.
+- I currently looking for a full time Software Engineering positon.
 - Feel free to reach me at jarkin1@hotmail.com or jarkin@uiowa.edu
 
 <!---
