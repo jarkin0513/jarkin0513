@@ -70,5 +70,15 @@
       <br>
       <sub>Java-based LAN multiplayer mystery game with live chat, turn-based mechanics, and shared game state.</sub>
     </td>
+    <td align="center" width="33.3%">
+      <a href="https://github.com/jarkin0513/Python-Web-Scraping-Splits">
+        <img src="https://github.com/jarkin0513/jarkin0513/blob/98684285dfebfbb02ab4804660bdba6d35f124e0/images/scraperImage.jpg" width="100%" />
+        <br><strong> Python Web Scraper </strong>
+      </a>
+      <br>
+      <sub><b>Python, Selenium</b></sub>
+      <br>
+      <sub>Selenium-based web scraper to extract data about splits for upcoming MLB games.</sub>
+    </td>
   </tr>
 </table>
