@@ -39,7 +39,7 @@
       <sub>Hackathon project that streamlines cross-platform content discovery by aggregating Netflix, Hulu, and Amazon titles into a searchable, filterable React app.</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/yourusername/Shards-of-the-Grid">
+      <a href="https://github.com/jarkin0513/Ruby_on_Rails-Multiplayer-Game">
         <img src="https://github.com/jarkin0513/jarkin0513/blob/15caf8f56988bb0489c17a48ec8ab323d2b9542e/images/shardsOfTheGrid.png" width="300px" alt="Shards of the Grid"/>
         <br><strong>Shards of the Grid</strong>
       </a>
