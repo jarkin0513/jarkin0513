@@ -24,3 +24,39 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
+## Latest Projects - Work in progress
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/yourusername/Streamly">
+        <img src="https://your-image-link.com/streamly.png" width="300px" alt="Streamly"/>
+        <br><strong>Streamly</strong>
+      </a>
+      <br>
+      <sub><b>React, Node.js, Redis, PostgreSQL</b></sub>
+      <br>
+      <sub>Hackathon project that streamlines cross-platform content discovery by aggregating Netflix, Hulu, and Amazon titles into a searchable, filterable React app.</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yourusername/Shards-of-the-Grid">
+        <img src="https://your-image-link.com/shards.png" width="300px" alt="Shards of the Grid"/>
+        <br><strong>Shards of the Grid</strong>
+      </a>
+      <br>
+      <sub><b>Ruby, Rails, HTML, CSS, JavaScript</b></sub>
+      <br>
+      <sub>SaaS web game built with Rails where users earn shards to expand territory and progress across persistent multiplayer sessions.</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yourusername/Toxic-Comment-Classification">
+        <img src="https://your-image-link.com/toxic.png" width="300px" alt="Toxic Comment Classification"/>
+        <br><strong>Toxic Comment Classification</strong>
+      </a>
+      <br>
+      <sub><b>Python, PyTorch, Hugging Face, scikit-learn</b></sub>
+      <br>
+      <sub>Built and evaluated multiple models for multi-label toxic comment classification.</sub>
+    </td>
+  </tr>
+</table>
