@@ -29,8 +29,8 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/yourusername/Streamly">
-        <img src="https://your-image-link.com/streamly.png" width="300px" alt="Streamly"/>
+      <a href="https://github.com/jarkin0513/streamly">
+        <img src="https://github.com/jarkin0513/jarkin0513/blob/f9581a7663a68e3b9928ccd75c25561ecf444ee4/images/streamlyRecs.png" width="300px" alt="Streamly"/>
         <br><strong>Streamly</strong>
       </a>
       <br>
@@ -40,7 +40,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/yourusername/Shards-of-the-Grid">
-        <img src="https://your-image-link.com/shards.png" width="300px" alt="Shards of the Grid"/>
+        <img src="https://github.com/jarkin0513/jarkin0513/blob/15caf8f56988bb0489c17a48ec8ab323d2b9542e/images/shardsOfTheGrid.png" width="300px" alt="Shards of the Grid"/>
         <br><strong>Shards of the Grid</strong>
       </a>
       <br>
@@ -50,7 +50,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/yourusername/Toxic-Comment-Classification">
-        <img src="https://your-image-link.com/toxic.png" width="300px" alt="Toxic Comment Classification"/>
+        <img src="https://github.com/jarkin0513/jarkin0513/blob/876b16bb13925910b55abdfa0ccdd81c12fb2965/images/LLMProj.png" width="300px" alt="Toxic Comment Classification"/>
         <br><strong>Toxic Comment Classification</strong>
       </a>
       <br>
