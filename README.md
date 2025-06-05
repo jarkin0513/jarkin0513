@@ -29,6 +29,16 @@
 <table>
   <tr>
     <td align="center" width="33.3%">
+      <a href="https://github.com/jarkin0513/Python-Web-Scraping-Splits">
+        <img src="https://github.com/jarkin0513/jarkin0513/blob/6253f69f06ac152f61e6e6ebfdc622d244d8deee/images/scraperImage.jpg" width="100%" />
+        <br><strong> Python Web Scraper </strong>
+      </a>
+      <br>
+      <sub><b>Python, Selenium</b></sub>
+      <br>
+      <sub>Selenium-based web scraper to extract data about splits for upcoming MLB games.</sub>
+    </td>
+    <td align="center" width="33.3%">
       <a href="https://github.com/jarkin0513/streamly">
         <img src="https://github.com/jarkin0513/jarkin0513/blob/f9581a7663a68e3b9928ccd75c25561ecf444ee4/images/streamlyRecs.png" width="100%" alt="Streamly"/>
         <br><strong>Streamly</strong>
@@ -37,16 +47,6 @@
       <sub><b>React, Node.js, Redis, PostgreSQL</b></sub>
       <br>
       <sub>Hackathon project that streamlines cross-platform content discovery by aggregating Netflix, Hulu, and Amazon titles into a searchable, filterable React app.</sub>
-    </td>
-    <td align="center" width="33.3%">
-      <a href="https://github.com/jarkin0513/Ruby_on_Rails-Multiplayer-Game">
-        <img src="https://github.com/jarkin0513/jarkin0513/blob/15caf8f56988bb0489c17a48ec8ab323d2b9542e/images/shardsOfTheGrid.png" width="100%" alt="Shards of the Grid"/>
-        <br><strong>Shards of the Grid</strong>
-      </a>
-      <br>
-      <sub><b>Ruby, Rails, HTML, CSS, JavaScript</b></sub>
-      <br>
-      <sub>SaaS web game built with Rails where users earn shards to expand territory and progress across persistent multiplayer sessions.</sub>
     </td>
     <td align="center" width="33.3%">
       <a href="https://github.com/jarkin0513/ToxicCommentClassification">
@@ -71,14 +71,15 @@
       <sub>Java-based LAN multiplayer mystery game with live chat, turn-based mechanics, and shared game state.</sub>
     </td>
     <td align="center" width="33.3%">
-      <a href="https://github.com/jarkin0513/Python-Web-Scraping-Splits">
-        <img src="https://github.com/jarkin0513/jarkin0513/blob/98684285dfebfbb02ab4804660bdba6d35f124e0/images/scraperImage.jpg" width="100%" />
-        <br><strong> Python Web Scraper </strong>
+      <a href="https://github.com/jarkin0513/Ruby_on_Rails-Multiplayer-Game">
+        <img src="https://github.com/jarkin0513/jarkin0513/blob/15caf8f56988bb0489c17a48ec8ab323d2b9542e/images/shardsOfTheGrid.png" width="100%" alt="Shards of the Grid"/>
+        <br><strong>Shards of the Grid</strong>
       </a>
       <br>
-      <sub><b>Python, Selenium</b></sub>
+      <sub><b>Ruby, Rails, HTML, CSS, JavaScript</b></sub>
       <br>
-      <sub>Selenium-based web scraper to extract data about splits for upcoming MLB games.</sub>
+      <sub>SaaS web game built with Rails where users earn shards to expand territory and progress across persistent multiplayer sessions.</sub>
     </td>
+    
   </tr>
 </table>
