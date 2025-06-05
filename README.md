@@ -49,7 +49,7 @@
       <sub>SaaS web game built with Rails where users earn shards to expand territory and progress across persistent multiplayer sessions.</sub>
     </td>
     <td align="center" width="33.3%">
-      <a href="https://github.com/yourusername/Toxic-Comment-Classification">
+      <a href="https://github.com/jarkin0513/ToxicCommentClassification">
         <img src="https://github.com/jarkin0513/jarkin0513/blob/876b16bb13925910b55abdfa0ccdd81c12fb2965/images/LLMProj.png" width="100%" alt="Toxic Comment Classification"/>
         <br><strong>Toxic Comment Classification</strong>
       </a>
