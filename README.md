@@ -40,7 +40,7 @@
     </td>
     <td align="center" width="33.3%">
       <a href="https://github.com/jarkin0513/streamly">
-        <img src="https://github.com/jarkin0513/jarkin0513/blob/f9581a7663a68e3b9928ccd75c25561ecf444ee4/images/streamlyRecs.png" width="100%" alt="Streamly"/>
+        <img src="https://github.com/jarkin0513/jarkin0513/blob/03012bbf7256a3e73ad1ffeaff7d5625379f542a/images/Streamly.png" width="100%" alt="Streamly"/>
         <br><strong>Streamly</strong>
       </a>
       <br>
