@@ -28,9 +28,9 @@
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="33.3%">
       <a href="https://github.com/jarkin0513/streamly">
-        <img src="https://github.com/jarkin0513/jarkin0513/blob/f9581a7663a68e3b9928ccd75c25561ecf444ee4/images/streamlyRecs.png" width="300px" alt="Streamly"/>
+        <img src="https://github.com/jarkin0513/jarkin0513/blob/f9581a7663a68e3b9928ccd75c25561ecf444ee4/images/streamlyRecs.png" width="100%" alt="Streamly"/>
         <br><strong>Streamly</strong>
       </a>
       <br>
@@ -38,9 +38,9 @@
       <br>
       <sub>Hackathon project that streamlines cross-platform content discovery by aggregating Netflix, Hulu, and Amazon titles into a searchable, filterable React app.</sub>
     </td>
-    <td align="center">
+    <td align="center" width="33.3%">
       <a href="https://github.com/jarkin0513/Ruby_on_Rails-Multiplayer-Game">
-        <img src="https://github.com/jarkin0513/jarkin0513/blob/15caf8f56988bb0489c17a48ec8ab323d2b9542e/images/shardsOfTheGrid.png" width="300px" alt="Shards of the Grid"/>
+        <img src="https://github.com/jarkin0513/jarkin0513/blob/15caf8f56988bb0489c17a48ec8ab323d2b9542e/images/shardsOfTheGrid.png" width="100%" alt="Shards of the Grid"/>
         <br><strong>Shards of the Grid</strong>
       </a>
       <br>
@@ -48,15 +48,27 @@
       <br>
       <sub>SaaS web game built with Rails where users earn shards to expand territory and progress across persistent multiplayer sessions.</sub>
     </td>
-    <td align="center">
+    <td align="center" width="33.3%">
       <a href="https://github.com/yourusername/Toxic-Comment-Classification">
-        <img src="https://github.com/jarkin0513/jarkin0513/blob/876b16bb13925910b55abdfa0ccdd81c12fb2965/images/LLMProj.png" width="300px" alt="Toxic Comment Classification"/>
+        <img src="https://github.com/jarkin0513/jarkin0513/blob/876b16bb13925910b55abdfa0ccdd81c12fb2965/images/LLMProj.png" width="100%" alt="Toxic Comment Classification"/>
         <br><strong>Toxic Comment Classification</strong>
       </a>
       <br>
       <sub><b>Python, PyTorch, Hugging Face, scikit-learn</b></sub>
       <br>
       <sub>Built and evaluated multiple models for multi-label toxic comment classification.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33.3%">
+      <a href="https://github.com/jarkin0513/Java-LAN-Multiplayer-Game">
+        <img src="https://github.com/jarkin0513/jarkin0513/blob/18ff669f460b3f836c5198f031364553c4c4aeae/images/MysteryGame.png" width="100%" />
+        <br><strong> Mystery Game </strong>
+      </a>
+      <br>
+      <sub><b>Java</b></sub>
+      <br>
+      <sub>Java-based LAN multiplayer mystery game with live chat, turn-based mechanics, and shared game state.</sub>
     </td>
   </tr>
 </table>
