@@ -76,7 +76,7 @@
         <br><strong>Shards of the Grid</strong>
       </a>
       <br>
-      <sub><b>Ruby, Rails, HTML, CSS, JavaScript</b></sub>
+      <sub><b>Ruby on Rails, JavaScript, HTML/CSS</b></sub>
       <br>
       <sub>SaaS web game built with Rails where users earn shards to expand territory and progress across persistent multiplayer sessions.</sub>
     </td>
