@@ -80,6 +80,28 @@
       <br>
       <sub>SaaS web game built with Rails where users earn shards to expand territory and progress across persistent multiplayer sessions.</sub>
     </td>
-    
+    <td align="center" width="33.3%">
+      <a href="https://github.com/jarkin0513/PWM-Embedded-Systems">
+        <img src="https://github.com/jarkin0513/jarkin0513/blob/main/images/PWM_thumbnail.jpg" width="100%" />
+        <br><strong>PWM Fan Control System</strong>
+      </a>
+      <br>
+      <sub><b>C, AVR, Embedded Systems</b></sub>
+      <br>
+      <sub>Embedded system for dynamic fan speed control using PWM, RPG input, LCD display, and stall detection.</sub>
+    </td>  
+  </tr>
+  <tr>
+    <td align="center" width="33.3%">
+      <a href="https://github.com/jarkin0513/PID-Embedded-Systems">
+        <img src="https://github.com/jarkin0513/jarkin0513/blob/main/images/PID.png" width="100%" />
+        <br><strong>PID Water Level Control</strong>
+      </a>
+      <br>
+      <sub><b>C, AVR, Embedded Systems</b></sub>
+      <br>
+      <sub>PID-controlled water level system using ultrasonic sensing, RPG input for setpoint adjustment, and real-time serial monitoring.</sub>
+    </td>
+
   </tr>
 </table>
