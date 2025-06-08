@@ -3,6 +3,7 @@
 🎓 Recent Computer Science and Engineering graduate from the University of Iowa  
 💻 Software Developer passionate about backend engineering, APIs, and cloud technologies  
 🔭 Open to software engineering opportunities — backend, fullstack, or cloud-focused  
+🌐 Portfolio: [jacobarkin.com](https://www.jacobarkin.com)
 📫 How to reach me: jarkin1@hotmail.com | [LinkedIn](https://linkedin.com/in/jacob-arkin) <br>
 🌎 Location: Based in Glenview, IL — open to remote work!
 
